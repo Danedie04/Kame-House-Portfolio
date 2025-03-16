@@ -18,7 +18,7 @@ npm run dev
 This command will start the React application, and you should see output in your terminal indicating that the server is running. By default, it will open your web browser and navigate to http://localhost:3000.
 
 Step 3: View Your Application
-Open your web browser and go to http://localhost:3000 if it doesn't open automatically. You should see your Inventory Management application running.
+Open your web browser and go to http://localhost:3000 if it doesn't open automatically. You should see your  application running.
 
 Step 4: Make Changes and See Live Updates
 As you make changes to your code, the development server will automatically reload the application in the browser, allowing you to see your changes in real-time
